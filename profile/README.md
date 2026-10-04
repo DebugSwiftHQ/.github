@@ -13,6 +13,10 @@ A founder-led technology agency in Kolkata. We understand a business, find the p
 | [**Free tools**](https://debugswift.com/tools) | Nine free checks and generators for small businesses: website audit, email deliverability, schema, QR codes and more. |
 | [**Blog**](https://debugswift.com/blog) | Plain-language writing on fixing business problems with technology. |
 
+### Open source
+
+- [**fallback-font-check**](https://github.com/DebugSwiftHQ/fallback-font-check): measure your fallback font against your webfont on real pages, per weight band, and get the `size-adjust` that stops text re-wrapping when the font loads. The tool that keeps debugswift.com's layout still.
+
 ### Client work
 
 - [Pet's Need](https://petsneed.in): pet care centre in Alipore, Kolkata
@@ -22,6 +26,6 @@ A founder-led technology agency in Kolkata. We understand a business, find the p
 
 ### Source code
 
-Our product and client code is private. The repositories here describe each product and link to the live version.
+Our product and client code is private. Each product's repository here is its public home: screenshots, documentation, a changelog, and a place to report problems.
 
 **Talk to us:** hello@debugswift.com · Founder: [Rijaul Sk](https://github.com/rijaulsk)
