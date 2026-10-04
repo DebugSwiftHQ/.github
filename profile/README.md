@@ -18,6 +18,7 @@ A founder-led technology agency in Kolkata. We understand a business, find the p
 - [Pet's Need](https://petsneed.in): pet care centre in Alipore, Kolkata
 - [BioRevon Pharmaceuticals](https://biorevon.com): pharmaceutical company website
 - [Dr. Selim SK](https://www.drselimsk.com): veterinary doctor and surgeon, Kolkata
+- [Growth Abroad](https://www.growthabroad.in): placement and internship consultancy
 
 ### Source code
 
