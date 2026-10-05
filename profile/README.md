@@ -11,7 +11,7 @@ A founder-led technology agency in Kolkata. We understand a business, find the p
 | [**Lead Engine**](https://debugswift.com/lead-engine) | Every WhatsApp enquiry answered in 10 seconds, qualified, and logged in your own team inbox. |
 | [**DuctForge**](https://ductforge.debugswift.com) | HVAC duct takeoff and sheet-metal calculator: surface area, sheet weight, gauge and a bill of materials. |
 | [**Free tools**](https://debugswift.com/tools) | Nine free checks and generators for small businesses: website audit, email deliverability, schema, QR codes and more. |
-| [**Blog**](https://debugswift.com/blog) | Plain-language writing on fixing business problems with technology. |
+| [**Blog**](https://debugswift.com/blog) | One owner question per post, answered in plain words. |
 
 ### Open source
 
