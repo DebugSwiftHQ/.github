@@ -1,4 +1,4 @@
-## DebugSwift: debugging businesses swiftly
+﻿## DebugSwift: debugging businesses swiftly
 
 A founder-led technology agency in Kolkata. We understand a business, find the problem costing it most, and fix it with technology: consultation, design, software, websites, e-commerce, SEO and AI automation.
 
@@ -19,9 +19,8 @@ A founder-led technology agency in Kolkata. We understand a business, find the p
 
 ### Client work
 
-- [Pet's Need](https://petsneed.in): pet care centre in Alipore, Kolkata
-- [BioRevon Pharmaceuticals](https://biorevon.com): pharmaceutical company website
-- [Dr. Selim SK](https://www.drselimsk.com): veterinary doctor and surgeon, Kolkata
+- [**BioRevon Pharmaceuticals**](https://biorevon.com): 14 medicines read from their own packs, photographed, searchable by ingredient, tested to 100 on Google PageSpeed. [The case study](https://debugswift.com/work/biorevon)
+
 ### Source code
 
 Our product and client code is private. Each product's repository here is its public home: screenshots, documentation, a changelog, and a place to report problems.
